@@ -1,4 +1,3 @@
-# project-2
 Hangman Game (Python)
 
 A simple text-based Hangman game built in Python.
